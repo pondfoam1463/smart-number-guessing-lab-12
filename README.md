@@ -1,2 +1,9 @@
-# smart-number-guessing-lab-12
-A simple number guessing project
+# Number Guessing
+
+A simple number guessing project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
